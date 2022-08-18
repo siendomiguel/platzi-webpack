@@ -1,0 +1,24 @@
+{
+  "name": "platzi-webpack",
+  "version": "1.0.0",
+  "description": "Practicas del curso de Platzi de Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siendomiguel/platzi-webpack.git"
+  },
+  "keywords": [],
+  "author": "Miguel Lares <siendomigueldev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siendomiguel/platzi-webpack/issues"
+  },
+  "homepage": "https://github.com/siendomiguel/platzi-webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
